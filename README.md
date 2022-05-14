@@ -1,6 +1,8 @@
 # wordle_clone
 
-A new Flutter project.
+This is the code for the tutorial series on Youtube to build a Wordle clone.
+
+https://www.youtube.com/watch?v=qcMyKwNgEPg&list=PLRz1ICq5mNx8tYouCq1Qd9bRjnYxoCuWH&index=1
 
 ## Getting Started
 
